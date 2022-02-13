@@ -1,6 +1,6 @@
 # Cryptocurrency Viewer
 
-Displays information from various cryptocurrencies, using [Rapid API](https://rapidapi.com/hub) to query data. Built using React and deployed [here](https://crypto-viewing-project.netlify.app/). Previews:
+Displays information from various cryptocurrencies, using [Rapid API](https://rapidapi.com/hub) to query data. Built using React and deployed [here](https://crypto-viewing-project.netlify.app/). Can also be viewed [on mobile](https://crypto-viewing-project-mobile.netlify.app). Previews:
 
 <img width="1440" alt="Screen Shot 2022-02-12 at 8 58 11 PM" src="https://user-images.githubusercontent.com/60997074/153735029-0366b045-9332-40ab-a39e-38d8dfb5c4c7.png">
 
